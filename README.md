@@ -10,7 +10,8 @@ bash infect.sh
 ```
 # Tool User and Pass 
 ```
-No Need username and password in these script 
+Username > Abm
+Password > Abm
 ```
 # Available On 
 ```
