@@ -4,6 +4,7 @@
 apt update && apt upgrade 
 apt install git 
 apt install python2 
+rm -rf infect
 git clone https://github.com/Tech-abm/infect
 cd infect 
 bash infect.sh
