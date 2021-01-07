@@ -42,7 +42,7 @@ echo ""
 rm -rf infect.py
 clear
 echo
-cd script
+cd $HOME/script
 python2 infect.py
 elif [[ $option == 2 || $option == 02 ]]; then
 echo ""
