@@ -1,9 +1,9 @@
 ![PicsArt_12-24-05.59.38.jpg](https://user-images.githubusercontent.com/52023076/103090371-b267ce80-45a5-11eb-993a-f624270f0b7f.jpg)
 # infect
 ```
-apt update && apt upgrade 
-apt install git 
-apt install python2 
+pkg update && apt upgrade 
+pkg install python2 -y
+pkg install git -y 
 rm -rf infect
 git clone https://github.com/Tech-abm/infect
 cd infect 
