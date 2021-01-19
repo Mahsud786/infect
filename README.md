@@ -8,6 +8,13 @@ rm -rf infect
 git clone https://github.com/Tech-abm/infect
 cd infect 
 bash infect.sh
+
+```
+# If bash script is error or not open. Type this 
+```
+cd infect 
+cd script 
+python2 infect.py
 ```
 # Tool User and Pass 
 ```
